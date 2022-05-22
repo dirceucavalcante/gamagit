@@ -3,11 +3,12 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Repositories from './Respositories';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   
-    <App title='Repositório GitHub' />
+    <App  />
   
 );
 
